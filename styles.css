@@ -1,0 +1,41 @@
+body {
+   
+   color: black;
+   font-size: medium;
+   font-weight: lighter;
+   text-align: center;
+   
+
+}
+
+/* .name,.lanugage {
+     margin-top: 30px;
+} */
+
+.name {
+    margin-right: 20;
+    margin-top: 100px;
+}
+.lanugageinput {
+    margin-top: 20px;
+}
+label {
+    font-weight: bold;
+    font-size: large;
+    
+}
+
+#greet {
+    margin-top: 10px;
+}
+
+select {
+    padding: auto;
+    margin-right: 10px;
+}
+
+button {
+    margin-top: 30px;
+    margin-right: 10px;
+}  
+  
